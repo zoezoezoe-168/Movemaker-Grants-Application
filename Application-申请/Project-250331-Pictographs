@@ -1,21 +1,97 @@
 ## Please fill out your project details using this template and submit a PR. The naming format should be ​'Project-YYMMDD'.
 
 1. Company / Project name
+Company Name: Picto Labs PTE. LTD.
+Project Name: Pictographs
+
 2. Official Links (Website, GitHub, LinkedIn, etc.)
+Website: https://pictographs.io/
+Github: https://github.com/Pictographs-dev
+Emil Yashayev, Founder/CEO - https://www.linkedin.com/in/emil-yashayev-2b2374270
+Max DYOR, Co-Founder - https://www.linkedin.com/in/maxdyor/
+
 3. Your name
+Emil Yashayev
+
 4. Email Address
+pictographs@0xlabs.tech
+
 5. Telegram or Wechat of POC
+Telegram: https://t.me/pictographs_official
+
 6. Which funding category are you applying for? (AI, DeFi, DePIN, Developer Education&Ecosystem, Tooling, Infrastructure, RWA, Payment, Others)
+Others
+
 7. Product Stage (Idea, MVP/Prototype/PoC, Business Model Validation, Early Adopters, Product Market Fit)
+Early Adopters
+
 8. Introduction to your project. (Please include a clear overview of what your project is and why this is something that you want to work on.)
+I’m Emil Yashayev, CEO of Pictographs, a gamified Photo&Earn platform built on blockchain under Picto Labs PTE. LTD. Pictographs empowers users to monetize their creativity through photo quests, blending photography with Web3 rewards like NFTs and tokens. With 60,000+ users, 1.2M+ NFTs minted, and a sold-out 7K NFT collection, we’re bridging creativity and technology to foster a thriving ecosystem. I’m passionate about this project because it merges my love for innovation with a mission to make blockchain accessible, rewarding, and fun—unlocking new opportunities for creators worldwide.
+
 9. What problem are you trying to solve, and why is it important?
+At Pictographs, we’re tackling the problem of limited monetization opportunities for casual creators, especially photographers, while addressing the complexity and inaccessibility of blockchain for everyday users. Traditional platforms often undervalue creative output, and Web3 can feel intimidating to newcomers. This matters because billions of people take photos daily with smartphones, yet few can earn from it, and blockchain adoption lags without relatable use cases. By creating a simple, gamified Photo&Earn model, we empower users to profit from their creativity and onboard them into Web3—unlocking economic potential and driving mass adoption. It’s a win for creators and the blockchain ecosystem alike.
+
 10. What is your proposed solution?
+Our solution at Pictographs is a gamified Photo&Earn platform that integrates photography with blockchain technology. Users complete photo quests—capturing anything from cityscapes to quirky themes—earn rewards like NFTs and tokens, and engage in a community-driven ecosystem. We simplify Web3 entry with an intuitive interface, seamless wallet integration, and AI-powered verification to ensure authenticity. This turns a daily habit (photography) into a rewarding experience, giving creators a way to monetize their work while introducing millions to blockchain through a fun, accessible model. It’s creativity meets opportunity, powered by Web3.
+
 11. Any competitions? (Does your project have direct competition or similar project on the market within or without apples ecosystem?)
+Yes, Pictographs faces competition from platforms like GuruShots and SNPIT. Unlike these, we offer a unique Photo&Earn model with blockchain-backed rewards, NFT integration, and a community-driven approach, setting us apart within and beyond Apple’s ecosystem. Our AI-powered verification and seamless Web3 onboarding further differentiate us.
+
 12. Why Aptos？
+We chose Aptos for Pictographs because it’s a scalable, secure Layer-1 blockchain with fast transactions (150,000+ TPS), low fees, and the Move language for safe smart contracts—perfect for our NFT-driven Photo&Earn platform.
+
 13. Team Background. For any other founder's involved in the project, please list their full name, title, LinkedIn URL, and a brief history (age, education, work/startup experience, previous projects, etc.)
+I’m Emil Yashayev, Founder/CEO of Pictographs, 30, with a Bachelor’s in Economics from Pace University and 8 years as Director of Operations at FCS Capital LLC. I’ve built a team of 8 passionate experts to drive this project.
+
+Co-Founder:
+
+Full Name: Max DYOR
+Title: Co-Founder
+LinkedIn: https://www.linkedin.com/in/maxdyor/
+Background: Age ~30s, crypto enthusiast since 2017, manages YouTube channels with 27K+ subscribers and a 6K-member Telegram. Ex-ambassador for STEPN, moderated channels with 200K+ participants, including “Hamster Kobat.” No formal education details provided, but extensive startup/community experience.
+Our team blends diverse skills—development, design, marketing, and community building—to make Pictographs a Web3 success.
+
 14. If you have multiple founders, how did you meet?
+I’m Emil Yashayev, Founder/CEO of Pictographs. I met my co-founder, Max DYOR, through the crypto community in 2022. We connected over shared interests in blockchain innovation and gamification during a Web3 event. Max’s experience building online communities and my background in operations sparked a collaboration that evolved into Pictographs. Our mutual drive to empower creators through technology sealed the deal!
+
 15. How many projects have you worked on together?How are responsibilities divided among the founders?
+Max DYOR and I, Emil Yashayev, have worked on one project together—Pictographs. It’s our first joint venture, and we’ve poured everything into making it a success.
+
+Responsibilities:
+Emil Yashayev (CEO): I oversee strategy, operations, and business development—steering the vision, securing partnerships, and managing the team.
+Max DYOR (Co-Founder): Max focuses on community building, marketing, and user engagement—leveraging his crypto network and content expertise to grow our audience and hype.
+We split the load based on our strengths, with me driving the business side and Max amplifying our presence in the Web3 space. It’s a tight partnership!
+
 16. Is the founding team committed full-time to this project? If not, please explain any other commitments and how much time each founder currently spends on the project.
+Yes, both Max DYOR and I, Emil Yashayev, are committed full-time to Pictographs. We have no other active commitments—our focus is 100% on driving this project forward, spending our full workweeks on strategy, community, and execution.
+
 17. Where are the founders based?
+I, Emil Yashayev (CEO), am based in New York, USA, while Max DYOR (Co-Founder) operates primarily from a digital-nomad setup, with no fixed base disclosed—though he’s active across global crypto hubs. Pictographs itself is legally anchored in Singapore under Picto Labs PTE. LTD.
+
 18. Budget proposal with milestones (The grant amount is usually 10k~50k. Please set up your budget proposal with milestones and estimated completion time.)
+Timeframe: 6 Months (March 31, 2025 - September 30, 2025)
+
+Milestone Breakdown:
+
+Milestone 1: Movemaker Blockchain Integration Kickoff (25% - $12,500)
+Objective: Integrate Pictographs onto the Movemaker blockchain, including initial smart contract setup and API connections.
+Deliverables: Functional blockchain integration, testnet deployment.
+Estimated Completion: 2 months (May 31, 2025)
+Allocation: $12,500
+Milestone 2: NFT & Gamification Enhancements (35% - $17,500, Cumulative: $30,000)
+Objective: Enhance NFT minting and gamified quest mechanics on Movemaker, optimizing user experience.
+Deliverables: NFT collection deployed, quest system live on Movemaker testnet.
+Estimated Completion: 4 months (July 31, 2025)
+Allocation: $17,500
+Milestone 3: Mainnet Launch & Optimization (40% - $20,000, Cumulative: $50,000)
+Objective: Launch Pictographs on Movemaker mainnet, finalize optimizations, and scale user onboarding.
+Deliverables: Mainnet deployment, 10K+ user transactions, performance report.
+Estimated Completion: 6 months (September 30, 2025)
+Allocation: $20,000
+Total Cumulative Allocation: $50,000
+
+This plan ensures steady progress, with funds released upon milestone completion, driving Pictographs’ growth on Movemaker within 6 months.
+
 19. Does the core team need office space support from Aptos Space (HK)?
+No, the core Pictographs team doesn’t need office space support from Aptos Space (HK). I, Emil Yashayev, am based in New York, Max DYOR operates remotely, and our legal entity is in Singapore. Our 8-person team is fully distributed and thriving with remote workflows—our setup’s lean and flexible, so we’re good without physical office space for now!
+
